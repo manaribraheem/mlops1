@@ -1,0 +1,4 @@
+[core]
+    remote = manardrive
+['remote "manardrive"']
+    url = gdrive://10zUV-iRBnUE3S2cRquevPCFNBhEYKZUQ
